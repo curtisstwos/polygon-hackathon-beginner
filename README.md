@@ -1,2 +1,4 @@
-# polygon-hackathon-beginner
-Played around with the Polygon blockchain
+# Polygon Hackathon Beginner Track
+*Played around with the Polygon blockchain*
+
+
